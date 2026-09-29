@@ -1,0 +1,6 @@
+{
+  "name": "FF Headshot Pro Panel",
+  "description": "Free Fire auto headshot sensitivity optimizer, DPI calculator, HUD button calibration, and drag-shot training simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
